@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Niroj Thapa</h1>
 <h3 align="center">A passionate MERN developer from Nepal</h3>
-- 📫 How to reach me **ngtc0925@gmail.com**
+- 🔭 I’m currently working on ...Web Development
+- 🌱 I’m currently learning ...javascript
+- 👯 I’m looking to collaborate on ...python
+- 🤔 I’m looking for help with ...ML
+- 💬 Ask me about ... javascript
+- 📫 How to reach me: ... ngtc0925@gmail.com
+- 😄 Pronouns: ...He/Him
+- ⚡ Fun fact: ... I can code without coffee.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niroj925&label=Profile%20views&color=0e75b6&style=flat" alt="niroj925" /> </p>
 
 <h3 align="left">Connect with me:</h3>
