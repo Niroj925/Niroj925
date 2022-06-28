@@ -3,8 +3,7 @@
 
 - 🔭 I’m currently working on ...Web Development
 - 🌱 I’m currently learning ...javascript
-- 👯 I’m looking to collaborate on ...python
-- 🤔 I’m looking for help with ...ML
+- 👯 I’m looking to collaborate on ...web development
 - 💬 Ask me about ... javascript
 - 📫 How to reach me: ... ngtc0925@gmail.com
 - 😄 Pronouns: ...He/Him
