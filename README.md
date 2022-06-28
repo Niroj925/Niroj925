@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niroj Thapa</h1>
 <h3 align="center">A passionate MERN developer from Nepal</h3>
+
 - 🔭 I’m currently working on ...Web Development
 - 🌱 I’m currently learning ...javascript
 - 👯 I’m looking to collaborate on ...python
