@@ -29,8 +29,9 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
         <a href="https://ethereum.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ethereum.png"/> </a>
+     <a href="https://hardhat.org/" target="_blank"> <img src="https://raw.githubusercontent.com/nomiclabs/hardhat/master/packages/hardhat-waffle/assets/hardhat-logo.svg" alt="hardhat" width="40" height="40"/> </a>
+    <a href="https://soliditylang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/ethereum/solidity/develop/docs/logo.svg" alt="solidity" width="40" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niroj925&show_icons=true&locale=en&layout=compact" alt="niroj925" /></p>
