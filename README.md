@@ -31,7 +31,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
         <a href="https://ethereum.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ethereum.png"/> </a>
            <a href="https://hardhat.org/" target="_blank">
-               <img src="https://images.app.goo.gl/R3eAW56nD4572qu27" alt="hardhat" width="40" height="40"/>
+               <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="hardhat" width="40" height="40"/>
     </a>
     <a href="https://soliditylang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/ethereum/solidity/develop/docs/logo.svg" alt="solidity" width="40" height="40"/> </a>
 </p>
