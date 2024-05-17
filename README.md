@@ -1,6 +1,4 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://aayushhh44.io)
-<h1 align="center">Hi 👋, I'm Aayush Poudel</h1>
-<h3 align="center">A passionate MERN stack developer from Nepal</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h1 align="center">Hi 👋, I'm Niroj Thapa</h1>
