@@ -43,11 +43,15 @@
                <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="hardhat" width="40" height="40"/>
     </a>
     <a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://banner2.cleanpng.com/20180804/ttq/bf041af08718afe10c4a524cfbf8b888.webp" alt="AWS" width="40" height="40"/>    
+  <img src="https://img.icons8.com/?size=100&id=wU62u24brJ44&format=png&color=000000" alt="AWS" width="40" height="40"/>    
 </a>
     <a href="https://www.docker.com/" target="_blank">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkJfoh0XOcxmaYzhLlmhpxmkZfOiCUNWT7wQ&s" alt="Docker" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" alt="Docker" width="40" height="40"/>
 </a>
+<a href="https://www.nginx.com/" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=LhQ8M0RI4YLP&format=png&color=000000" alt="NGINX" width="40" height="40"/>
+</a>
+
 
 </p>
 
