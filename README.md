@@ -43,7 +43,7 @@
                <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="hardhat" width="40" height="40"/>
     </a>
     <a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://seeklogo.com/images/A/aws-logo-5C507B1E07-seeklogo.com.png" alt="AWS" width="40" height="40"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" alt="AWS" width="40" height="40"/>
 </a>
 </p>
 
