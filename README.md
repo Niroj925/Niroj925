@@ -42,6 +42,9 @@
                <a href="https://hardhat.org/" target="_blank">
                <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="hardhat" width="40" height="40"/>
     </a>
+    <a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://seeklogo.com/images/A/aws-logo-5C507B1E07-seeklogo.com.png" alt="AWS" width="40" height="40"/>
+</a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niroj925&show_icons=true&locale=en&layout=compact" alt="niroj925" /></p>
