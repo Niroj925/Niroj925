@@ -45,11 +45,8 @@
     <a href="https://aws.amazon.com/" target="_blank">
   <img src="https://banner2.cleanpng.com/20180804/ttq/bf041af08718afe10c4a524cfbf8b888.webp" alt="AWS" width="40" height="40"/>    
 </a>
-       <a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://banner2.cleanpng.com/20180804/ttq/bf041af08718afe10c4a524cfbf8b888.webp" alt="AWS" width="40" height="40"/>    
-</a>
     <a href="https://www.docker.com/" target="_blank">
-  <img src="https://w7.pngwing.com/pngs/627/244/png-transparent-docker-logo-logos-logos-and-brands-icon.png" alt="Docker" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkJfoh0XOcxmaYzhLlmhpxmkZfOiCUNWT7wQ&s" alt="Docker" width="40" height="40"/>
 </a>
 
 </p>
