@@ -43,8 +43,15 @@
                <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="hardhat" width="40" height="40"/>
     </a>
     <a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" alt="AWS" width="40" height="40"/>
+  <img src="https://banner2.cleanpng.com/20180804/ttq/bf041af08718afe10c4a524cfbf8b888.webp" alt="AWS" width="40" height="40"/>    
 </a>
+       <a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://banner2.cleanpng.com/20180804/ttq/bf041af08718afe10c4a524cfbf8b888.webp" alt="AWS" width="40" height="40"/>    
+</a>
+    <a href="https://www.docker.com/" target="_blank">
+  <img src="https://w7.pngwing.com/pngs/627/244/png-transparent-docker-logo-logos-logos-and-brands-icon.png" alt="Docker" width="40" height="40"/>
+</a>
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niroj925&show_icons=true&locale=en&layout=compact" alt="niroj925" /></p>
