@@ -51,7 +51,13 @@
 <a href="https://www.nginx.com/" target="_blank">
   <img src="https://img.icons8.com/?size=100&id=LhQ8M0RI4YLP&format=png&color=000000" alt="NGINX" width="40" height="40"/>
 </a>
-
+    <a href="https://www.redis.com/" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=lhwQTv6iwznO&format=png&color=000000" alt="NGINX" width="40" height="40"/>
+</a>
+</a>
+    <a href="https://www.kafka.com/" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=fOhLNqGJsUbJ&format=png&color=000000" alt="NGINX" width="40" height="40"/>
+</a>
 
 </p>
 
