@@ -60,7 +60,7 @@
 </a>
 </a>
     <a href="https://www.kafka.com/" target="_blank">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-rabbitmq-logo-brand-download-svg-png-gif-flat-icon-logos-world-brand-logos-vol-1-pack-rabbitmq-logo-icon-282296.png?f=webp&w=200" alt="NGINX" width="40" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-rabbitmq-logo-brand-download-svg-png-gif-flat-icon-logos-world-brand-logos-vol-1-pack-rabbitmq-logo-icon-282296.png?f=webp&w=256" alt="NGINX" width="35" height="35"/>
 </a>
 
 
